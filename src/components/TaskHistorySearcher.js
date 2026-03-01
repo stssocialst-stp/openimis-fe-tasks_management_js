@@ -6,7 +6,7 @@ import {
   historyPush,
   useModulesManager,
   useTranslations,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import {
   RIGHT_TASKS_MANAGEMENT_SEARCH, DEFAULT_PAGE_SIZE, ROWS_PER_PAGE_OPTIONS, TASK_STATUS, TASK_ROUTE,
 } from '../constants';

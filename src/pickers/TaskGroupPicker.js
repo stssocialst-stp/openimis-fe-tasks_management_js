@@ -5,7 +5,7 @@ import {
   useTranslations,
   Autocomplete,
   useGraphqlQuery,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 
 function TaskGroupPicker(props) {
   const {

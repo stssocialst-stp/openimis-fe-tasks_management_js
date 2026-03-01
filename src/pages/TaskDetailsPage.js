@@ -8,7 +8,7 @@ import {
   useModulesManager,
   useTranslations,
   decodeId,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import _ from 'lodash';
 import TaskHeadPanel from '../components/TaskHeadPanel';
 import TaskPreviewPanel from '../components/TaskPreviewPanel';

@@ -4,7 +4,7 @@ import { connect, useDispatch } from 'react-redux';
 import { bindActionCreators } from 'redux';
 import {
   Form, Helmet, useTranslations, useModulesManager, useHistory, clearConfirm, journalize, coreConfirm,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import DeleteIcon from '@material-ui/icons/Delete';
 import _ from 'lodash';
 import TaskGroupHeadPanel from '../components/groups-management/TaskGroupHeadPanel';

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import {
   useModulesManager,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { useSelector } from 'react-redux';
 import {
   Box,

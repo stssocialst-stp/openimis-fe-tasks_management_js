@@ -7,7 +7,7 @@ import {
   useHistory,
   useModulesManager,
   useTranslations,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 import { IconButton, Tooltip } from '@material-ui/core';

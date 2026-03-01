@@ -2,7 +2,7 @@ import React from 'react';
 import { Grid } from '@material-ui/core';
 import { makeStyles } from '@material-ui/styles';
 import _debounce from 'lodash/debounce';
-import { TextInput } from '@stssocialst-stp';
+import { TextInput } from '@stssocialst-stp/fe-core';
 import {
   CONTAINS_LOOKUP, DEFAULT_DEBOUNCE_TIME, EMPTY_STRING,
 } from '../../constants';

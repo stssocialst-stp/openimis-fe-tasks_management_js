@@ -1,5 +1,5 @@
 import React from 'react';
-import { ConstantBasedPicker } from '@stssocialst-stp';
+import { ConstantBasedPicker } from '@stssocialst-stp/fe-core';
 import { TASK_AVAILABLE_SOURCES } from '../constants';
 
 function TaskSourcesPicker(props) {

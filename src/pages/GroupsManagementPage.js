@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Helmet, withTooltip, useTranslations, useModulesManager, useHistory,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { makeStyles } from '@material-ui/styles';
 import { useSelector } from 'react-redux';
 import { Fab } from '@material-ui/core';

@@ -5,7 +5,7 @@ import { withTheme, withStyles } from '@material-ui/core/styles';
 import _debounce from 'lodash/debounce';
 import {
   TextInput, PublishedComponent, formatMessage, decodeId, toISODateTime,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { defaultFilterStyles } from '../utils/styles';
 import {
   CONTAINS_LOOKUP, DEFAULT_DEBOUNCE_TIME, EMPTY_STRING, MODULE_NAME,

@@ -6,7 +6,7 @@ import {
   historyPush,
   useModulesManager,
   useTranslations,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { IconButton, Tooltip } from '@material-ui/core';
 import VisibilityIcon from '@material-ui/icons/Visibility';
 import {

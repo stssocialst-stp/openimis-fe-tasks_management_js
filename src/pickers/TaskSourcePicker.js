@@ -3,7 +3,7 @@ import {
   Autocomplete,
   useTranslations,
   useModulesManager,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { TASK_CONTRIBUTION_KEY } from '../constants';
 
 function TaskSourcePicker({

@@ -7,7 +7,7 @@ import {
   TextAreaInput,
   FormattedMessage,
   formatMessage,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { injectIntl } from 'react-intl';
 import { withTheme, withStyles } from '@material-ui/core/styles';
 import TaskStatusPicker from '../pickers/TaskStatusPicker';
