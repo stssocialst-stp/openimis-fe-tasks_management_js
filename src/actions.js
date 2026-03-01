@@ -5,7 +5,7 @@ import {
   formatPageQueryWithCount,
   graphql,
   graphqlWithVariables,
-} from '@stssocialst-stp';
+} from '@stssocialst-stp/fe-core';
 import { ACTION_TYPE, MUTATION_SERVICE } from './reducer';
 import {
   CLEAR, ERROR, REQUEST, SUCCESS,

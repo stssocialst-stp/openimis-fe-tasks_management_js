@@ -20,7 +20,9 @@ export default {
     /^@babel.*/,
     /^@date-io\/.*/,
     /^@material-ui\/.*/,
-    /^@stssocialst-stp.*/,
+    // only packages under our named scope with a slash should be treated as external
+    // matching the bare scope caused incorrect imports like `from '@stssocialst-stp'`
+    /^@stssocialst-stp\/.*/,
     'classnames',
     'clsx',
     'history',
