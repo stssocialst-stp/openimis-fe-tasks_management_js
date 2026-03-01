@@ -1,5 +1,5 @@
 import React from 'react';
-import { ConstantBasedPicker } from '@openimis/fe-core';
+import { ConstantBasedPicker } from '@stssocialst-stp';
 import { GROUP_RESOLVE_POLICY_LIST } from '../constants';
 
 function GroupPolicyPicker(props) {

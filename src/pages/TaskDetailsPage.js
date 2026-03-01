@@ -8,7 +8,7 @@ import {
   useModulesManager,
   useTranslations,
   decodeId,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import _ from 'lodash';
 import TaskHeadPanel from '../components/TaskHeadPanel';
 import TaskPreviewPanel from '../components/TaskPreviewPanel';

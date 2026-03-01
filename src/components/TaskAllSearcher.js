@@ -6,7 +6,7 @@ import {
   historyPush,
   useModulesManager,
   useTranslations,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import { IconButton, Tooltip } from '@material-ui/core';
 import VisibilityIcon from '@material-ui/icons/Visibility';
 import {

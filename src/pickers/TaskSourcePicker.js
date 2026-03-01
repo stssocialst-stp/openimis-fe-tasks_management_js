@@ -3,7 +3,7 @@ import {
   Autocomplete,
   useTranslations,
   useModulesManager,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import { TASK_CONTRIBUTION_KEY } from '../constants';
 
 function TaskSourcePicker({

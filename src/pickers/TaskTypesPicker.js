@@ -1,5 +1,5 @@
 import React from 'react';
-import { ConstantBasedPicker } from '@openimis/fe-core';
+import { ConstantBasedPicker } from '@stssocialst-stp';
 import { TASK_AVAILABLE_TYPES } from '../constants';
 
 function TaskTypesPicker(props) {

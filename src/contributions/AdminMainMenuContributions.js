@@ -4,7 +4,7 @@ import {
   People,
 } from '@material-ui/icons';
 
-import { FormattedMessage } from '@openimis/fe-core';
+import { FormattedMessage } from '@stssocialst-stp';
 import {
   RIGHT_TASK_EXECUTIONER_GROUPS,
 } from '../constants';

@@ -1,9 +1,15 @@
 {
-  "name": "@openimis/fe-tasks_management",
+  "name": "@stssocialst-stp/fe-tasks_management",
   "version": "0.1.0",
   "license": "AGPL-3.0-only",
   "description": "openIMIS Frontend Tasks Management module",
-  "repository": "openimis/openimis-fe-tasks_management_js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stssocialst-stp/openimis-fe-tasks_management_js"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

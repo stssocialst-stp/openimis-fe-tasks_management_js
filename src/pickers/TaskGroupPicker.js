@@ -5,7 +5,7 @@ import {
   useTranslations,
   Autocomplete,
   useGraphqlQuery,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 
 function TaskGroupPicker(props) {
   const {

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { makeStyles, Paper, Typography } from '@material-ui/core';
-import { useModulesManager } from '@openimis/fe-core';
+import { useModulesManager } from '@stssocialst-stp';
 import { EMPTY_STRING, TASK_CONTRIBUTION_KEY } from '../constants';
 import TaskPreviewTable from './TaskPreviewTable';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   useTranslations, Autocomplete, useModulesManager, useGraphqlQuery,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 
 function TaskExecutorsPicker({
   multiple = true,

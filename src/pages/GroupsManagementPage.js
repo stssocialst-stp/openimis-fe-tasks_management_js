@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Helmet, withTooltip, useTranslations, useModulesManager, useHistory,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import { makeStyles } from '@material-ui/styles';
 import { useSelector } from 'react-redux';
 import { Fab } from '@material-ui/core';

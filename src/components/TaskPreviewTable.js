@@ -6,7 +6,7 @@ import { withStyles, withTheme } from '@material-ui/core/styles';
 import {
   Table, TableBody, TableCell, TableContainer, TableHead, TableRow,
 } from '@material-ui/core';
-import { ProgressOrError } from '@openimis/fe-core';
+import { ProgressOrError } from '@stssocialst-stp';
 import { useSelector } from 'react-redux';
 import TaskPreviewCell from './TaskPreviewCell';
 

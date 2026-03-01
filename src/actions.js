@@ -5,7 +5,7 @@ import {
   formatPageQueryWithCount,
   graphql,
   graphqlWithVariables,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import { ACTION_TYPE, MUTATION_SERVICE } from './reducer';
 import {
   CLEAR, ERROR, REQUEST, SUCCESS,

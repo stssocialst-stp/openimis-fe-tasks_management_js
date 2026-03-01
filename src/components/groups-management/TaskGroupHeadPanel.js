@@ -5,7 +5,7 @@ import {
   FormPanel,
   TextInput,
   FormattedMessage,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import { injectIntl } from 'react-intl';
 import { withTheme, withStyles } from '@material-ui/core/styles';
 import TaskExecutorsPicker from '../../pickers/TaskExecutorsPicker';

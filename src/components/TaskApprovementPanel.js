@@ -7,7 +7,7 @@ import {
 import {
   useTranslations,
   useModulesManager, coreConfirm, clearConfirm, journalize,
-} from '@openimis/fe-core';
+} from '@stssocialst-stp';
 import ClearIcon from '@material-ui/icons/Clear';
 import CheckIcon from '@material-ui/icons/Check';
 import {
